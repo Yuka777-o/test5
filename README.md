@@ -1,1 +1,4 @@
-# test5早稲田
+<<<<<<< HEAD
+=======
+# test5keiokeiokeio！
+>>>>>>> main
